@@ -1,3 +1,3 @@
 # This is a zomato landing page clone
 
-This is a new SETUP branch
+This is the master branch
