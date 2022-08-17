@@ -169,7 +169,6 @@
   position: relative;
 }
 
-
 #card1 {
   background-image: url(images/collection1.jpg);
 }
@@ -516,7 +515,7 @@
 
 @media only screen and (max-width: 900px) {
   .navigation_container {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
